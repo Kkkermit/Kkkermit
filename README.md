@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://cdn.discordapp.com/attachments/1129094438669520956/1182493748580593768/heading-new.png?ex=6584e61f&is=6572711f&hm=69dbacae9d29a9a20c3dc3128fb9be7c9f9b5e691ac43dd5157436dc5afb25ed&)](https://github.com/Kkkermit) 
+
 
 [![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
