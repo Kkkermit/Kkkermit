@@ -22,13 +22,7 @@
 
 ## Hi, I'm Kkermit.!
 
-My coding journey began when I was just 16 years old. I got my first PC and enjoyed playing using Discord. When I discovered that custom experiences could be created, I eagerly dove into learning Discord.js. I had been dreaming of learning to code since I was 9, and discovering Discord.js gave me the perfect opportunity to do so.
-
-### Exploring Front-end Development
-
-As I continued to grow and learn, I felt a strong desire to expand my skillset and delve deeper into the various facets of programming. My curiosity led me to explore the world of front-end development, which plays a crucial role in building the structure of web applications and services. Eager to master this domain, I began learning Node.js, React, CSS, HTML and JSX.
-
-As I progressed in my journey, I realized the importance of understanding not only front-end programming but also the complex interplay between front-end and back-end technologies. This realization drove me to expand my knowledge of databases, API integrations, and other aspects of full-stack development. My continuous learning and passion for front-end development has opened up new horizons for me in the world of software development, allowing me to create more sophisticated and robust applications.
+That's it from me :)
 
 <div align="center">
   
