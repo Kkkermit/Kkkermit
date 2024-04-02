@@ -25,7 +25,7 @@
 That's it from me :)
 
 ```js
-  import React from 'react';
+import React from 'react';
   
 interface AboutMeProps {
   name: string;
