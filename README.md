@@ -27,6 +27,6 @@ That's it from me :)
 <div align="center">
   
 [![](https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=tokyonight)](https://github.com/Kkkermit)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&langs_count=5&icons=true&theme=tokyonight&hide_border=false&order=2" alt="languages graph"  />
   
 </div>
