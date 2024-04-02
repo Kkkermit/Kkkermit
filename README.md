@@ -24,7 +24,7 @@
 
 That's it from me :)
 
-<script>
+```js
   import React from 'react';
   
 interface AboutMeProps {
@@ -52,7 +52,8 @@ const AboutMe: React.FC<AboutMeProps> = ({ name, age, occupation, interests }) =
 }
 
 export default AboutMe;
-</script>
+```
+
 
 <div align="center">
   
