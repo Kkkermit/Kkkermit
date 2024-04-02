@@ -24,6 +24,36 @@
 
 That's it from me :)
 
+<script>
+  import React from 'react';
+  
+interface AboutMeProps {
+  name: string;
+  age: number;
+  occupation: string;
+  interests: string[];
+}
+
+const AboutMe: React.FC<AboutMeProps> = ({ name, age, occupation, interests }) => {
+  return (
+    <div>
+      <h1>About Me</h1>
+      <p><strong>Name:</strong> {Kkermit}</p>
+      <p><strong>Age:</strong> {19}</p>
+      <p><strong>Occupation:</strong> {Frontend-dev}</p>
+      <p><strong>Interests:</strong>withering my life away coding :(</p>
+      <ul>
+        {interests.map((interest, index) => (
+          <li key={index}>{interest}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default AboutMe;
+</script>
+
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=dracula" height="200" />
