@@ -26,7 +26,7 @@ That's it from me :)
 
 <div align="center">
   
-[![](https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=tokyonight)](https://github.com/Kkkermit)
+<img src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=tokyonight" height="250"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&langs_count=6&icons=true&theme=tokyonight&hide_border=false&order=2" height="250" alt="languages graph"  />
   
 </div>
