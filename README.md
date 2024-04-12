@@ -24,6 +24,12 @@
 
 That's it from me :)
 
+<p align="left"> 
+    <img
+        src="https://komarev.com/ghpvc/?username=kkkermit&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ProfileViews" /> 
+    </p>
+
 ```js
 import React from 'react';
   
