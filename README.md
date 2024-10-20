@@ -40,7 +40,7 @@ That's it from me :)
 
 <div>
       <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=dracula&hide_border=true" />
-      <img width="375px" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkkermit&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&theme=dracula" />
+      <img width="350px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkkermit&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5&theme=dracula" />
     <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkkermit&theme=dracula&hide_border=true" />
     <img width="400px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=Kkkermit&theme=dracula&hide_border=true" >
 </div>
