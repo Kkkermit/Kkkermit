@@ -46,3 +46,6 @@ That's it from me :)
 </div>
 
 <hr>
+
+![Snake animation](https://raw.githubusercontent.com/Kkkermit/thelegendev/output/github-contribution-grid-snake-dark.svg)
+
