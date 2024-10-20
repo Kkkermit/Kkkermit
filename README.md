@@ -39,7 +39,8 @@ That's it from me :)
 <hr>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=dracula" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&langs_count=6&icons=true&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com?user=kkkermit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+    <img width="420px" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&theme=dracula" />
+    <img width="375px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkkermit&locale=en&hide_title=false&layout=compact&langs_count=6&icons=true&theme=dracula&hide_border=false&order=2" />
+    <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkkermit&theme=dracula&hide_border=false" />
+    <img width="400px" height="170px" src="https://streak-stats.demolab.com?user=kkkermit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" >
 </div>
