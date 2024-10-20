@@ -44,3 +44,5 @@ That's it from me :)
     <img width="420px" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkkermit&theme=dracula&hide_border=true" />
     <img width="400px" height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=Kkkermit&theme=dracula&hide_border=true" >
 </div>
+
+<hr>
