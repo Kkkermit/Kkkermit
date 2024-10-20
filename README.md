@@ -30,6 +30,7 @@ That's it from me :)
         alt="ProfileViews" /> 
     </p>
 
+<hr>
 
 <div align="center">
 <img src="https://lanyard.cnrad.dev/api/526853643962679323?bg=transparent" alt="discord-info" margin-top="2rem" />
