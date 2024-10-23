@@ -20,6 +20,14 @@
 
 </div>
 
+<hr>
+
+<div align="center">
+     <img src="https://i.postimg.cc/q7cPXFVL/heading-new.png" alt="heading-image">
+</div>
+
+<hr>
+
 ## Hi, I'm Kkermit.!
 
 That's it from me :)
