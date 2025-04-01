@@ -32,6 +32,13 @@
 
 That's it from me :)
 
+<p align="center">
+  <a href="https://buymeacoffee.com/kkermit" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  </a>
+</p>
+
+
 <p align="left"> 
     <img
         src="https://komarev.com/ghpvc/?username=kkkermit&label=Profile%20views&color=0e75b6&style=flat"
