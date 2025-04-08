@@ -40,7 +40,7 @@ That's it from me :)
 
 <p align="center">
   <a href="https://kkermit.shop" target="_blank">
-       <h1 align="center">Purchase my discord bots - https://kkermit.shop</h1>
+       <h1 align="center">🛒 Purchase my discord bots - https://kkermit.shop 🛒</h1>
   </a>
 </p>
 
