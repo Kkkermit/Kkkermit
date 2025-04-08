@@ -40,9 +40,7 @@ That's it from me :)
 
 <p align="center">
   <a href="https://kkermit.shop" target="_blank">
-     <img src="https://cdn3.emoji.gg/emojis/2668_Siren.gif" width="64px" height="64px" alt="Siren">
-       <h1>🛒 Purchase my discord bots - https://kkermit.shop 🛒</h1>
-     <img src="https://cdn3.emoji.gg/emojis/2668_Siren.gif" width="64px" height="64px" alt="Siren">
+       <h1 align="center"><img src="https://cdn3.emoji.gg/emojis/2668_Siren.gif" width="64px" height="64px" alt="Siren">🛒 Purchase my discord bots - https://kkermit.shop 🛒<img src="https://cdn3.emoji.gg/emojis/2668_Siren.gif" width="64px" height="64px" alt="Siren"></h1>
   </a>
 </p>
 
