@@ -38,6 +38,12 @@ That's it from me :)
   </a>
 </p>
 
+<p align="center">
+  <a href="https://kkermit.shop" target="_blank">
+       <h1>Purchase my discord bots - https://kkermit.shop</h1>
+  </a>
+</p>
+
 
 <p align="left"> 
     <img
