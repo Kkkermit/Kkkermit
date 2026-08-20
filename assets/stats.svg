@@ -20,26 +20,26 @@
   <text class="mono hd" x="22" y="32">GITHUB STATS</text>
   <g class="in" style="animation-delay:0s">
     <text class="mono lbl" x="22" y="74">STARS EARNED</text>
-    <text class="mono num" x="22" y="99">168</text>
+    <text class="mono num" x="22" y="99">174</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <text class="mono lbl" x="230" y="74">TOTAL COMMITS</text>
-    <text class="mono num" x="230" y="99">4.1k</text>
+    <text class="mono num" x="230" y="99">968</text>
   </g>
   <g class="in" style="animation-delay:0.16s">
     <text class="mono lbl" x="22" y="130">PULL REQUESTS</text>
-    <text class="mono num" x="22" y="155">96</text>
+    <text class="mono num" x="22" y="155">37</text>
   </g>
   <g class="in" style="animation-delay:0.24s">
     <text class="mono lbl" x="230" y="130">ISSUES OPENED</text>
-    <text class="mono num" x="230" y="155">41</text>
+    <text class="mono num" x="230" y="155">2</text>
   </g>
   <g class="in" style="animation-delay:0.32s">
     <text class="mono lbl" x="22" y="186">PUBLIC REPOS</text>
-    <text class="mono num" x="22" y="211">38</text>
+    <text class="mono num" x="22" y="211">15</text>
   </g>
   <g class="in" style="animation-delay:0.4s">
     <text class="mono lbl" x="230" y="186">CONTRIBUTED TO</text>
-    <text class="mono num" x="230" y="211">12</text>
+    <text class="mono num" x="230" y="211">0</text>
   </g>
 </svg>
