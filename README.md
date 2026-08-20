@@ -4,9 +4,8 @@
 
 <br/><br/>
 
-<a href="https://kkermit.shop"><img src="https://img.shields.io/badge/SHOP-kkermit.shop-0D1117?style=for-the-badge&labelColor=3FB950&logoColor=white" alt="shop" /></a>
+<a href="https://kkermit.shop"><img src="https://img.shields.io/badge/SHOP-buy_my_bots-0D1117?style=for-the-badge&labelColor=3FB950&logoColor=white" alt="shop" /></a>
 <a href="https://github.com/Kkkermit?tab=followers"><img src="https://img.shields.io/github/followers/Kkkermit?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=3FB950" alt="followers" /></a>
-<a href="https://github.com/Kkkermit?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Kkkermit?style=for-the-badge&label=STARS&labelColor=0D1117&color=3FB950" alt="stars" /></a>
 <img src="https://komarev.com/ghpvc/?username=Kkkermit&style=for-the-badge&label=VIEWS&color=3FB950" alt="views" />
 
 <img src="https://raw.githubusercontent.com/Kkkermit/Kkkermit/main/assets/divider.svg" width="100%" alt="" />
@@ -149,8 +148,8 @@ The thing I actually care about: code that's **provable**. If a component can't 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kkkermit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=C9D1D9&icon_color=3FB950&ring_color=7EE787" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkkermit&layout=compact&langs_count=8&hide_border=true&hide_title=true&bg_color=00000000&text_color=C9D1D9&title_color=3FB950" alt="languages" />
+<img height="226" src="https://raw.githubusercontent.com/Kkkermit/Kkkermit/main/assets/stats.svg" alt="GitHub stats" />
+<img height="226" src="https://raw.githubusercontent.com/Kkkermit/Kkkermit/main/assets/languages.svg" alt="Languages" />
 
 <br/>
 

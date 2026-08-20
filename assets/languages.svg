@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 226" width="432" height="226" role="img" aria-label="LANGUAGES">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7EE787" stop-opacity="0.25"/>
+    </linearGradient>
+    <style>
+      .mono { font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace }
+      .hd   { font-size:12px; font-weight:700; letter-spacing:2.6px; fill:#7EE787 }
+      .lbl  { font-size:12.5px; fill:#8B949E }
+      .num  { font-size:21px; font-weight:700; fill:#E6EDF3 }
+      /* base state is visible; the animation only plays if the renderer
+         supports it, so nothing disappears in strict SVG viewers */
+      .in   { animation: in .6s ease-out backwards }
+      @keyframes in { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="430.5" height="224.5" rx="12" fill="#0F1720" stroke="#21332A"/>
+  <rect x="0.75" y="14" width="3" height="198" rx="1.5" fill="url(#edge)"/>
+  <text class="mono hd" x="22" y="32">LANGUAGES</text>
+  <clipPath id="clip"><rect x="22" y="52" width="388" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#clip)">
+  <rect x="22" y="52" width="388" height="10" fill="#0D1117"/>
+  <rect x="22.0" y="52" width="153.3" height="10" fill="#3178c6"/>
+  <rect x="175.3" y="52" width="144.3" height="10" fill="#f1e05a"/>
+  <rect x="319.6" y="52" width="35.7" height="10" fill="#b07219"/>
+  <rect x="355.3" y="52" width="27.5" height="10" fill="#563d7c"/>
+  <rect x="382.8" y="52" width="19.0" height="10" fill="#e34c26"/>
+  <rect x="401.8" y="52" width="8.2" height="10" fill="#41b883"/>
+  </g>
+  <g class="in" style="animation-delay:0s">
+    <circle cx="27" cy="92" r="5" fill="#3178c6"/>
+    <text class="mono lbl" x="40" y="96" fill="#E6EDF3">TypeScript</text>
+    <text class="mono lbl" x="200" y="96" text-anchor="end">39.5%</text>
+  </g>
+  <g class="in" style="animation-delay:0.09s">
+    <circle cx="227" cy="92" r="5" fill="#f1e05a"/>
+    <text class="mono lbl" x="240" y="96" fill="#E6EDF3">JavaScript</text>
+    <text class="mono lbl" x="400" y="96" text-anchor="end">37.2%</text>
+  </g>
+  <g class="in" style="animation-delay:0.18s">
+    <circle cx="27" cy="126" r="5" fill="#b07219"/>
+    <text class="mono lbl" x="40" y="130" fill="#E6EDF3">Java</text>
+    <text class="mono lbl" x="200" y="130" text-anchor="end">9.2%</text>
+  </g>
+  <g class="in" style="animation-delay:0.27s">
+    <circle cx="227" cy="126" r="5" fill="#563d7c"/>
+    <text class="mono lbl" x="240" y="130" fill="#E6EDF3">CSS</text>
+    <text class="mono lbl" x="400" y="130" text-anchor="end">7.1%</text>
+  </g>
+  <g class="in" style="animation-delay:0.36s">
+    <circle cx="27" cy="160" r="5" fill="#e34c26"/>
+    <text class="mono lbl" x="40" y="164" fill="#E6EDF3">HTML</text>
+    <text class="mono lbl" x="200" y="164" text-anchor="end">4.9%</text>
+  </g>
+  <g class="in" style="animation-delay:0.44999999999999996s">
+    <circle cx="227" cy="160" r="5" fill="#41b883"/>
+    <text class="mono lbl" x="240" y="164" fill="#E6EDF3">Vue</text>
+    <text class="mono lbl" x="400" y="164" text-anchor="end">2.1%</text>
+  </g>
+  <line x1="22" y1="182" x2="410" y2="182" stroke="#21332A"/>
+  <text class="mono lbl" x="22" y="203" font-size="11">across 38 public repos</text>
+  <text class="mono lbl" x="410" y="203" font-size="11" text-anchor="end">updated 2026-08-20</text>
+</svg>

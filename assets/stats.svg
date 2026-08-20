@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 226" width="432" height="226" role="img" aria-label="GITHUB STATS">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3FB950" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7EE787" stop-opacity="0.25"/>
+    </linearGradient>
+    <style>
+      .mono { font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace }
+      .hd   { font-size:12px; font-weight:700; letter-spacing:2.6px; fill:#7EE787 }
+      .lbl  { font-size:12.5px; fill:#8B949E }
+      .num  { font-size:21px; font-weight:700; fill:#E6EDF3 }
+      /* base state is visible; the animation only plays if the renderer
+         supports it, so nothing disappears in strict SVG viewers */
+      .in   { animation: in .6s ease-out backwards }
+      @keyframes in { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="430.5" height="224.5" rx="12" fill="#0F1720" stroke="#21332A"/>
+  <rect x="0.75" y="14" width="3" height="198" rx="1.5" fill="url(#edge)"/>
+  <text class="mono hd" x="22" y="32">GITHUB STATS</text>
+  <g class="in" style="animation-delay:0s">
+    <text class="mono lbl" x="22" y="74">STARS EARNED</text>
+    <text class="mono num" x="22" y="99">168</text>
+  </g>
+  <g class="in" style="animation-delay:0.08s">
+    <text class="mono lbl" x="230" y="74">TOTAL COMMITS</text>
+    <text class="mono num" x="230" y="99">4.1k</text>
+  </g>
+  <g class="in" style="animation-delay:0.16s">
+    <text class="mono lbl" x="22" y="130">PULL REQUESTS</text>
+    <text class="mono num" x="22" y="155">96</text>
+  </g>
+  <g class="in" style="animation-delay:0.24s">
+    <text class="mono lbl" x="230" y="130">ISSUES OPENED</text>
+    <text class="mono num" x="230" y="155">41</text>
+  </g>
+  <g class="in" style="animation-delay:0.32s">
+    <text class="mono lbl" x="22" y="186">PUBLIC REPOS</text>
+    <text class="mono num" x="22" y="211">38</text>
+  </g>
+  <g class="in" style="animation-delay:0.4s">
+    <text class="mono lbl" x="230" y="186">CONTRIBUTED TO</text>
+    <text class="mono num" x="230" y="211">12</text>
+  </g>
+</svg>
