@@ -21,10 +21,10 @@
   <clipPath id="clip"><rect x="22" y="52" width="388" height="10" rx="5"/></clipPath>
   <g clip-path="url(#clip)">
   <rect x="22" y="52" width="388" height="10" fill="#0D1117"/>
-  <rect x="22.0" y="52" width="326.6" height="10" fill="#f1e05a"/>
-  <rect x="348.6" y="52" width="36.4" height="10" fill="#3178c6"/>
-  <rect x="384.9" y="52" width="9.5" height="10" fill="#e34c26"/>
-  <rect x="394.4" y="52" width="8.1" height="10" fill="#b07219"/>
+  <rect x="22.0" y="52" width="326.8" height="10" fill="#f1e05a"/>
+  <rect x="348.8" y="52" width="36.2" height="10" fill="#3178c6"/>
+  <rect x="385.0" y="52" width="9.5" height="10" fill="#e34c26"/>
+  <rect x="394.5" y="52" width="8.0" height="10" fill="#b07219"/>
   <rect x="402.5" y="52" width="6.9" height="10" fill="#663399"/>
   <rect x="409.4" y="52" width="3.0" height="10" fill="#3572A5"/>
   </g>
@@ -36,12 +36,12 @@
   <g class="in" style="animation-delay:0.09s">
     <circle cx="227" cy="92" r="5" fill="#3178c6"/>
     <text class="mono lbl" x="240" y="96" fill="#E6EDF3">TypeScript</text>
-    <text class="mono lbl" x="400" y="96" text-anchor="end">9.4%</text>
+    <text class="mono lbl" x="400" y="96" text-anchor="end">9.3%</text>
   </g>
   <g class="in" style="animation-delay:0.18s">
     <circle cx="27" cy="126" r="5" fill="#e34c26"/>
     <text class="mono lbl" x="40" y="130" fill="#E6EDF3">HTML</text>
-    <text class="mono lbl" x="200" y="130" text-anchor="end">2.5%</text>
+    <text class="mono lbl" x="200" y="130" text-anchor="end">2.4%</text>
   </g>
   <g class="in" style="animation-delay:0.27s">
     <circle cx="227" cy="126" r="5" fill="#b07219"/>
@@ -60,5 +60,5 @@
   </g>
   <line x1="22" y1="182" x2="410" y2="182" stroke="#21332A"/>
   <text class="mono lbl" x="22" y="203" font-size="11">across 15 public repos</text>
-  <text class="mono lbl" x="410" y="203" font-size="11" text-anchor="end">updated 2026-08-20</text>
+  <text class="mono lbl" x="410" y="203" font-size="11" text-anchor="end">updated 2026-08-21</text>
 </svg>
