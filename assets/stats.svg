@@ -24,7 +24,7 @@
   </g>
   <g class="in" style="animation-delay:0.08s">
     <text class="mono lbl" x="230" y="74">TOTAL COMMITS</text>
-    <text class="mono num" x="230" y="99">970</text>
+    <text class="mono num" x="230" y="99">972</text>
   </g>
   <g class="in" style="animation-delay:0.16s">
     <text class="mono lbl" x="22" y="130">PULL REQUESTS</text>
