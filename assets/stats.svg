@@ -20,7 +20,7 @@
   <text class="mono hd" x="22" y="32">GITHUB STATS</text>
   <g class="in" style="animation-delay:0s">
     <text class="mono lbl" x="22" y="74">STARS EARNED</text>
-    <text class="mono num" x="22" y="99">174</text>
+    <text class="mono num" x="22" y="99">175</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <text class="mono lbl" x="230" y="74">TOTAL COMMITS</text>
