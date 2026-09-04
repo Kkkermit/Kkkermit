@@ -20,11 +20,11 @@
   <text class="mono hd" x="22" y="32">GITHUB STATS</text>
   <g class="in" style="animation-delay:0s">
     <text class="mono lbl" x="22" y="74">STARS EARNED</text>
-    <text class="mono num" x="22" y="99">175</text>
+    <text class="mono num" x="22" y="99">176</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <text class="mono lbl" x="230" y="74">TOTAL COMMITS</text>
-    <text class="mono num" x="230" y="99">975</text>
+    <text class="mono num" x="230" y="99">992</text>
   </g>
   <g class="in" style="animation-delay:0.16s">
     <text class="mono lbl" x="22" y="130">PULL REQUESTS</text>
