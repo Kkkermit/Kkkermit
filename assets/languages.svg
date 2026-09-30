@@ -21,37 +21,37 @@
   <clipPath id="clip"><rect x="22" y="52" width="388" height="10" rx="5"/></clipPath>
   <g clip-path="url(#clip)">
   <rect x="22" y="52" width="388" height="10" fill="#0D1117"/>
-  <rect x="22.0" y="52" width="325.4" height="10" fill="#3178c6"/>
-  <rect x="347.4" y="52" width="37.2" height="10" fill="#f1e05a"/>
-  <rect x="384.6" y="52" width="18.3" height="10" fill="#3572A5"/>
-  <rect x="402.9" y="52" width="3.7" height="10" fill="#b07219"/>
-  <rect x="406.6" y="52" width="3.0" height="10" fill="#663399"/>
-  <rect x="409.6" y="52" width="3.0" height="10" fill="#e34c26"/>
+  <rect x="22.0" y="52" width="327.1" height="10" fill="#3178c6"/>
+  <rect x="349.1" y="52" width="36.2" height="10" fill="#f1e05a"/>
+  <rect x="385.3" y="52" width="17.8" height="10" fill="#3572A5"/>
+  <rect x="403.1" y="52" width="3.6" height="10" fill="#b07219"/>
+  <rect x="406.7" y="52" width="3.0" height="10" fill="#663399"/>
+  <rect x="409.7" y="52" width="3.0" height="10" fill="#e34c26"/>
   </g>
   <g class="in" style="animation-delay:0s">
     <circle cx="27" cy="92" r="5" fill="#3178c6"/>
     <text class="mono lbl" x="40" y="96" fill="#E6EDF3">TypeScript</text>
-    <text class="mono lbl" x="200" y="96" text-anchor="end">83.9%</text>
+    <text class="mono lbl" x="200" y="96" text-anchor="end">84.3%</text>
   </g>
   <g class="in" style="animation-delay:0.09s">
     <circle cx="227" cy="92" r="5" fill="#f1e05a"/>
     <text class="mono lbl" x="240" y="96" fill="#E6EDF3">JavaScript</text>
-    <text class="mono lbl" x="400" y="96" text-anchor="end">9.6%</text>
+    <text class="mono lbl" x="400" y="96" text-anchor="end">9.3%</text>
   </g>
   <g class="in" style="animation-delay:0.18s">
     <circle cx="27" cy="126" r="5" fill="#3572A5"/>
     <text class="mono lbl" x="40" y="130" fill="#E6EDF3">Python</text>
-    <text class="mono lbl" x="200" y="130" text-anchor="end">4.7%</text>
+    <text class="mono lbl" x="200" y="130" text-anchor="end">4.6%</text>
   </g>
   <g class="in" style="animation-delay:0.27s">
     <circle cx="227" cy="126" r="5" fill="#b07219"/>
     <text class="mono lbl" x="240" y="130" fill="#E6EDF3">Java</text>
-    <text class="mono lbl" x="400" y="130" text-anchor="end">1.0%</text>
+    <text class="mono lbl" x="400" y="130" text-anchor="end">0.9%</text>
   </g>
   <g class="in" style="animation-delay:0.36s">
     <circle cx="27" cy="160" r="5" fill="#663399"/>
     <text class="mono lbl" x="40" y="164" fill="#E6EDF3">CSS</text>
-    <text class="mono lbl" x="200" y="164" text-anchor="end">0.8%</text>
+    <text class="mono lbl" x="200" y="164" text-anchor="end">0.7%</text>
   </g>
   <g class="in" style="animation-delay:0.44999999999999996s">
     <circle cx="227" cy="160" r="5" fill="#e34c26"/>
@@ -60,5 +60,5 @@
   </g>
   <line x1="22" y1="182" x2="410" y2="182" stroke="#21332A"/>
   <text class="mono lbl" x="22" y="203" font-size="11">across 15 public repos</text>
-  <text class="mono lbl" x="410" y="203" font-size="11" text-anchor="end">updated 2026-09-29</text>
+  <text class="mono lbl" x="410" y="203" font-size="11" text-anchor="end">updated 2026-09-30</text>
 </svg>
