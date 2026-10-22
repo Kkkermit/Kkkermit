@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 180" width="480" height="180" role="img" aria-label="Statify">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect y="2" width="4" height="1" fill="#000" opacity="0.35"/></pattern>
+    <radialGradient id="glow" cx="50%" cy="0%" r="90%"><stop offset="0%" stop-color="#FF2D55" stop-opacity="0.16"/><stop offset="100%" stop-color="#FF2D55" stop-opacity="0"/></radialGradient>
+    <style>
+      .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace }
+      .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif }
+      .hd  { font-size:12px; font-weight:700; letter-spacing:2.4px; fill:#FF2D55 }
+      .lbl { font-size:12px; fill:#B58C98; letter-spacing:0.6px }
+      .num { font-size:24px; font-weight:700; fill:#FFE9EE }
+      .ttl { font-size:17px; font-weight:700; fill:#FFE9EE }
+      .dsc { font-size:13.5px; fill:#B58C98 }
+      /* base state is visible; the animation only plays if the renderer
+         supports it, so nothing disappears in strict SVG viewers */
+      .in  { animation: in .6s ease-out backwards }
+      @keyframes in { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+      @media (prefers-reduced-motion: reduce) { .in { animation: none } }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="478.5" height="178.5" rx="12" fill="#0B0609" stroke="#3A1220" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="478.5" height="178.5" rx="12" fill="url(#glow)"/>
+  
+  <text class="m ttl" x="24" y="42" style="font-size:17px">Statify</text>
+  <g class="in">
+    <polygon points="399.20,30.50 400.92,34.63 405.38,34.99 401.98,37.90 403.02,42.26 399.20,39.92 395.38,42.26 396.42,37.90 393.02,34.99 397.48,34.63" fill="#FF2D55"/>
+    <text class="m lbl" x="409.20000000000005" y="42" style="fill:#FFE9EE">2</text>
+    <g transform="translate(432.6,30)" fill="none" stroke="#A855F7" stroke-width="1.5" stroke-linecap="round">
+      <circle cx="3" cy="2.5" r="1.8"/><circle cx="11" cy="2.5" r="1.8"/><circle cx="7" cy="12.5" r="1.8"/>
+      <path d="M3 4.3v1.4c0 1.4 1 2.3 2.3 2.3h3.4c1.3 0 2.3-0.9 2.3-2.3V4.3M7 8v2.7"/>
+    </g>
+    <text class="m lbl" x="448.6" y="42" style="fill:#FFE9EE">0</text>
+  </g>
+  <text class="s dsc" x="24" y="76">A Discord bot written in Java that links to your Spotify</text>
+  <text class="s dsc" x="24" y="96">account and shows your listening stats in Discord.</text>
+  <circle cx="29" cy="152" r="5" fill="#A855F7"/>
+  <text class="m lbl" x="40" y="156">Java</text>
+  <text class="m lbl" x="456" y="156" text-anchor="end" style="fill:#FF2D55">JDA</text>
+  <rect x="0.75" y="0.75" width="478.5" height="178.5" rx="12" fill="url(#scan)"/>
+</svg>
