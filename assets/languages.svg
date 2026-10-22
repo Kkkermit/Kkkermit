@@ -23,17 +23,17 @@
   <clipPath id="bar"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
     <rect x="24" y="56" width="432" height="10" fill="#3A1220"/>
-    <rect x="24.0" y="56" width="391.4" height="10" fill="#FF2D55"/>
-    <rect x="415.4" y="56" width="22.1" height="10" fill="#FF5C7A"/>
-    <rect x="437.4" y="56" width="11.7" height="10" fill="#D63384"/>
-    <rect x="449.1" y="56" width="4.3" height="10" fill="#A855F7"/>
-    <rect x="453.4" y="56" width="4.0" height="10" fill="#7E3FD0"/>
-    <rect x="457.4" y="56" width="4.0" height="10" fill="#4B2A3A"/>
+    <rect x="24.0" y="56" width="390.9" height="10" fill="#FF2D55"/>
+    <rect x="414.9" y="56" width="22.0" height="10" fill="#FF5C7A"/>
+    <rect x="436.9" y="56" width="12.3" height="10" fill="#D63384"/>
+    <rect x="449.1" y="56" width="4.5" height="10" fill="#A855F7"/>
+    <rect x="453.6" y="56" width="4.0" height="10" fill="#7E3FD0"/>
+    <rect x="457.6" y="56" width="4.0" height="10" fill="#4B2A3A"/>
   </g>
   <g class="in" style="animation-delay:0.00s">
     <rect x="24" y="94" width="10" height="10" rx="2" fill="#FF2D55"/>
     <text class="m lbl" x="42" y="104" style="fill:#FFE9EE">TypeScript</text>
-    <text class="m lbl" x="220" y="104" text-anchor="end">90.6%</text>
+    <text class="m lbl" x="220" y="104" text-anchor="end">90.5%</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <rect x="246" y="94" width="10" height="10" rx="2" fill="#FF5C7A"/>
@@ -43,7 +43,7 @@
   <g class="in" style="animation-delay:0.16s">
     <rect x="24" y="128" width="10" height="10" rx="2" fill="#D63384"/>
     <text class="m lbl" x="42" y="138" style="fill:#FFE9EE">JavaScript</text>
-    <text class="m lbl" x="220" y="138" text-anchor="end">2.7%</text>
+    <text class="m lbl" x="220" y="138" text-anchor="end">2.8%</text>
   </g>
   <g class="in" style="animation-delay:0.24s">
     <rect x="246" y="128" width="10" height="10" rx="2" fill="#A855F7"/>
