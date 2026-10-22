@@ -1,4 +1,4 @@
-// Generates assets/stats.svg, assets/languages.svg and the assets/repo-*.svg
+// Generates assets/stats-card.svg, assets/languages-card.svg and the assets/repo-*.svg
 // project cards from the GitHub API, styled to match the CRT header.
 // Runs inside GitHub Actions using the built-in GITHUB_TOKEN — no rate limits,
 // no third-party service, no broken cards.
@@ -366,11 +366,11 @@ function repoCard(r, info) {
 
 const data = await collect();
 await mkdir("assets", { recursive: true });
-await writeFile("assets/stats.svg", statsCard(data));
-await writeFile("assets/languages.svg", languagesCard(data));
+await writeFile("assets/stats-card.svg", statsCard(data));
+await writeFile("assets/languages-card.svg", languagesCard(data));
 for (const r of FEATURED) {
   const info = data.repoInfo[r.name] || { stars: 0, forks: 0, lang: "" };
   await writeFile(`assets/${r.file}`, repoCard(r, info));
 }
-console.log("Wrote assets/stats.svg, assets/languages.svg and", FEATURED.length, "repo cards");
+console.log("Wrote assets/stats-card.svg, assets/languages-card.svg and", FEATURED.length, "repo cards");
 console.log(data.languages.slice(0, 6).map((l) => l.name).join(", "));

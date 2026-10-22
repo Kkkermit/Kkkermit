@@ -20,19 +20,19 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake-crt.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#9333EA&color_dots=#F1E8EC,#FFC2CE,#FF7F98,#F0335C,#B8123A
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A855F7&color_dots=#1A0B12,#4D0F22,#93163A,#DB1F4A,#FF4D6E
+            dist/snake-crt.svg?color_snake=#9333EA&color_dots=#F1E8EC,#FFC2CE,#FF7F98,#F0335C,#B8123A
+            dist/snake-crt-dark.svg?palette=github-dark&color_snake=#A855F7&color_dots=#1A0B12,#4D0F22,#93163A,#DB1F4A,#FF4D6E
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push snake-crt.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

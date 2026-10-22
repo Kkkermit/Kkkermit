@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Kkermit. Frontend and Discord bot developer" />
+<img src="assets/header-crt.svg" width="100%" alt="Kkermit. Frontend and Discord bot developer" />
 
 <br/>
 
@@ -18,7 +18,7 @@ My main project is [Testify](https://github.com/Kkkermit/Testify), an all-in-one
 
 I also sell some of my bots. You can find them on my [Buy Me a Coffee page](https://buymeacoffee.com/kkermit/extras), and if you have any questions about one, message me on [Discord](https://discord.com/users/526853643962679323).
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider-crt.svg" width="100%" alt="" />
 
 ### `02` &nbsp;PROJECTS
 
@@ -27,7 +27,7 @@ I also sell some of my bots. You can find them on my [Buy Me a Coffee page](http
 <a href="https://github.com/Kkkermit/Statify"><img src="assets/repo-statify.svg" width="49%" alt="Statify" /></a>
 <a href="https://github.com/Kkkermit/jest-ts-example"><img src="assets/repo-jest.svg" width="49%" alt="jest-ts-example" /></a>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider-crt.svg" width="100%" alt="" />
 
 ### `03` &nbsp;STACK
 
@@ -75,20 +75,20 @@ I also sell some of my bots. You can find them on my [Buy Me a Coffee page](http
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider-crt.svg" width="100%" alt="" />
 
 ### `04` &nbsp;STATS
 
 <div align="center">
 
-<img src="assets/stats.svg" width="49%" alt="GitHub stats" />
-<img src="assets/languages.svg" width="49%" alt="Most used languages" />
+<img src="assets/stats-card.svg" width="49%" alt="GitHub stats" />
+<img src="assets/languages-card.svg" width="49%" alt="Most used languages" />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kkkermit/Kkkermit/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Kkkermit/Kkkermit/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kkkermit/Kkkermit/output/snake-crt-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kkkermit/Kkkermit/output/snake-crt.svg" width="100%" alt="Contribution graph being eaten by a snake" />
 </picture>
 
 <br/><br/>
