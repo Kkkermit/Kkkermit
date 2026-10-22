@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250" role="img" aria-label="&gt; GITHUB STATS_">
+  <defs>
+    <linearGradient id="rail-stats" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF2D55"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <pattern id="sl-stats" width="4" height="4" patternUnits="userSpaceOnUse"><rect y="2" width="4" height="1" fill="#000" opacity="0.35"/></pattern><radialGradient id="gl-stats" cx="50%" cy="0%" r="90%"><stop offset="0%" stop-color="#FF2D55" stop-opacity="0.16"/><stop offset="100%" stop-color="#FF2D55" stop-opacity="0"/></radialGradient>
+    <style>
+      .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace }
+      .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif }
+      .hd  { font-size:12px; font-weight:700; letter-spacing:2.4px; fill:#FF3B5C }
+      .lbl { font-size:12px; fill:#B58C98; letter-spacing:0.6px }
+      .num { font-size:24px; font-weight:700; fill:#FFE9EE }
+      .ttl { font-size:17px; font-weight:700; fill:#FFE9EE }
+      .dsc { font-size:13.5px; fill:#B58C98 }
+      .in  { animation: in .6s ease-out backwards }
+      @keyframes in { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+      @media (prefers-reduced-motion: reduce) { .in { animation: none } }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="478.5" height="248.5" rx="12" fill="#0B0609" stroke="#3A1220" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="478.5" height="248.5" rx="12" fill="url(#gl-stats)"/>
+  
+  <text class="m hd" x="24" y="36">&gt; GITHUB STATS_</text>
+  <g class="in" style="animation-delay:0.00s">
+    <rect x="24" y="69" width="6" height="6" rx="1" fill="#FF2D55"/>
+    <text class="m lbl" x="38" y="76">STARS</text>
+    <text class="m num" x="24" y="104">170</text>
+  </g>
+  <g class="in" style="animation-delay:0.07s">
+    <rect x="246" y="69" width="6" height="6" rx="1" fill="#A855F7"/>
+    <text class="m lbl" x="260" y="76">COMMITS</text>
+    <text class="m num" x="246" y="104">953</text>
+  </g>
+  <g class="in" style="animation-delay:0.14s">
+    <rect x="24" y="127" width="6" height="6" rx="1" fill="#FF2D55"/>
+    <text class="m lbl" x="38" y="134">FORKS</text>
+    <text class="m num" x="24" y="162">66</text>
+  </g>
+  <g class="in" style="animation-delay:0.21s">
+    <rect x="246" y="127" width="6" height="6" rx="1" fill="#A855F7"/>
+    <text class="m lbl" x="260" y="134">PULL REQUESTS</text>
+    <text class="m num" x="246" y="162">58</text>
+  </g>
+  <g class="in" style="animation-delay:0.28s">
+    <rect x="24" y="185" width="6" height="6" rx="1" fill="#FF2D55"/>
+    <text class="m lbl" x="38" y="192">PUBLIC REPOS</text>
+    <text class="m num" x="24" y="220">10</text>
+  </g>
+  <g class="in" style="animation-delay:0.35s">
+    <rect x="246" y="185" width="6" height="6" rx="1" fill="#A855F7"/>
+    <text class="m lbl" x="260" y="192">FOLLOWERS</text>
+    <text class="m num" x="246" y="220">20</text>
+  </g>
+  <rect x="0.75" y="0.75" width="478.5" height="248.5" rx="12" fill="url(#sl-stats)"/>
+</svg>

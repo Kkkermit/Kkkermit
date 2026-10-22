@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 14" width="1000" height="14" role="presentation">
+  <defs>
+    <linearGradient id="kitt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9D5CFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#9D5CFF" stop-opacity="0.6"/>
+      <stop offset="80%" stop-color="#FF2D55"/>
+      <stop offset="100%" stop-color="#FF8FA3"/>
+    </linearGradient>
+    <style>
+      .scan { animation: k 3.2s ease-in-out infinite alternate }
+      @keyframes k { from { transform:translateX(0) } to { transform:translateX(860px) } }
+      @media (prefers-reduced-motion: reduce) { .scan { animation: none !important } }
+    </style>
+  </defs>
+  <line x1="0" y1="7" x2="1000" y2="7" stroke="#3A1220" stroke-width="2" stroke-dasharray="6 6"/>
+  <g class="scan"><rect x="0" y="3" width="140" height="8" rx="2" fill="url(#kitt)"/></g>
+</svg>

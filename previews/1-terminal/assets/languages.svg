@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250" role="img" aria-label="MOST USED LANGUAGES">
+  <defs>
+    <linearGradient id="rail-langs" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF3B5C"/>
+      <stop offset="100%" stop-color="#9D5CFF"/>
+    </linearGradient>
+    
+    <style>
+      .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace }
+      .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif }
+      .hd  { font-size:12px; font-weight:700; letter-spacing:2.4px; fill:#FF5C78 }
+      .lbl { font-size:12px; fill:#A3939C; letter-spacing:0.6px }
+      .num { font-size:24px; font-weight:700; fill:#F2E8EC }
+      .ttl { font-size:17px; font-weight:700; fill:#F2E8EC }
+      .dsc { font-size:13.5px; fill:#A3939C }
+      .in  { animation: in .6s ease-out backwards }
+      @keyframes in { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:none } }
+      @media (prefers-reduced-motion: reduce) { .in { animation: none } }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="478.5" height="248.5" rx="12" fill="#110B10" stroke="#2E1823" stroke-width="1.5"/>
+  
+  <rect x="0.75" y="16" width="3" height="218" rx="1.5" fill="url(#rail-langs)"/>
+  <text class="m hd" x="24" y="36">MOST USED LANGUAGES</text>
+  <clipPath id="bar-langs"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar-langs)">
+    <rect x="24" y="56" width="432" height="10" fill="#2E1823"/>
+    <rect x="24.0" y="56" width="391.4" height="10" fill="#FF3B5C"/>
+    <rect x="415.4" y="56" width="22.1" height="10" fill="#E2336F"/>
+    <rect x="437.4" y="56" width="11.7" height="10" fill="#C13A8A"/>
+    <rect x="449.1" y="56" width="4.3" height="10" fill="#9D5CFF"/>
+    <rect x="453.4" y="56" width="4.0" height="10" fill="#7A5AD6"/>
+    <rect x="457.4" y="56" width="4.0" height="10" fill="#5E4B56"/>
+  </g>
+  <g class="in" style="animation-delay:0.00s">
+    <rect x="24" y="94" width="10" height="10" rx="2" fill="#FF3B5C"/>
+    <text class="m lbl" x="42" y="104" fill="#F2E8EC" style="fill:#F2E8EC">TypeScript</text>
+    <text class="m lbl" x="220" y="104" text-anchor="end">90.6%</text>
+  </g>
+  <g class="in" style="animation-delay:0.08s">
+    <rect x="246" y="94" width="10" height="10" rx="2" fill="#E2336F"/>
+    <text class="m lbl" x="264" y="104" fill="#F2E8EC" style="fill:#F2E8EC">Python</text>
+    <text class="m lbl" x="442" y="104" text-anchor="end">5.1%</text>
+  </g>
+  <g class="in" style="animation-delay:0.16s">
+    <rect x="24" y="128" width="10" height="10" rx="2" fill="#C13A8A"/>
+    <text class="m lbl" x="42" y="138" fill="#F2E8EC" style="fill:#F2E8EC">JavaScript</text>
+    <text class="m lbl" x="220" y="138" text-anchor="end">2.7%</text>
+  </g>
+  <g class="in" style="animation-delay:0.24s">
+    <rect x="246" y="128" width="10" height="10" rx="2" fill="#9D5CFF"/>
+    <text class="m lbl" x="264" y="138" fill="#F2E8EC" style="fill:#F2E8EC">Java</text>
+    <text class="m lbl" x="442" y="138" text-anchor="end">1.0%</text>
+  </g>
+  <g class="in" style="animation-delay:0.32s">
+    <rect x="24" y="162" width="10" height="10" rx="2" fill="#7A5AD6"/>
+    <text class="m lbl" x="42" y="172" fill="#F2E8EC" style="fill:#F2E8EC">CSS</text>
+    <text class="m lbl" x="220" y="172" text-anchor="end">0.5%</text>
+  </g>
+  <g class="in" style="animation-delay:0.40s">
+    <rect x="246" y="162" width="10" height="10" rx="2" fill="#5E4B56"/>
+    <text class="m lbl" x="264" y="172" fill="#F2E8EC" style="fill:#F2E8EC">Dockerfile</text>
+    <text class="m lbl" x="442" y="172" text-anchor="end">0.1%</text>
+  </g>
+  <line x1="24" y1="200" x2="456" y2="200" stroke="#2E1823"/>
+  <text class="m lbl" x="24" y="224" font-size="11">across 10 public repos</text>
+  <text class="m lbl" x="456" y="224" font-size="11" text-anchor="end">updated daily</text>
+  
+</svg>
