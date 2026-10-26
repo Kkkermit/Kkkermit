@@ -38,7 +38,7 @@
   <g class="in" style="animation-delay:0.21s">
     <rect x="246" y="127" width="6" height="6" rx="1" fill="#A855F7"/>
     <text class="m lbl" x="260" y="134">PULL REQUESTS</text>
-    <text class="m num" x="246" y="162">83</text>
+    <text class="m num" x="246" y="162">92</text>
   </g>
   <g class="in" style="animation-delay:0.28s">
     <rect x="24" y="185" width="6" height="6" rx="1" fill="#FF2D55"/>
@@ -48,7 +48,7 @@
   <g class="in" style="animation-delay:0.35s">
     <rect x="246" y="185" width="6" height="6" rx="1" fill="#A855F7"/>
     <text class="m lbl" x="260" y="192">FOLLOWERS</text>
-    <text class="m num" x="246" y="220">20</text>
+    <text class="m num" x="246" y="220">22</text>
   </g>
   <rect x="0.75" y="0.75" width="478.5" height="248.5" rx="12" fill="url(#scan)"/>
 </svg>
