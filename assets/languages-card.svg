@@ -23,32 +23,32 @@
   <clipPath id="bar"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
     <rect x="24" y="56" width="432" height="10" fill="#3A1220"/>
-    <rect x="24.0" y="56" width="395.8" height="10" fill="#FF2D55"/>
-    <rect x="419.8" y="56" width="19.3" height="10" fill="#FF5C7A"/>
-    <rect x="439.2" y="56" width="10.8" height="10" fill="#D63384"/>
-    <rect x="450.0" y="56" width="4.0" height="10" fill="#A855F7"/>
-    <rect x="454.0" y="56" width="4.0" height="10" fill="#7E3FD0"/>
-    <rect x="458.0" y="56" width="4.0" height="10" fill="#4B2A3A"/>
+    <rect x="24.0" y="56" width="399.6" height="10" fill="#FF2D55"/>
+    <rect x="423.6" y="56" width="17.3" height="10" fill="#FF5C7A"/>
+    <rect x="440.9" y="56" width="9.7" height="10" fill="#D63384"/>
+    <rect x="450.6" y="56" width="4.0" height="10" fill="#A855F7"/>
+    <rect x="454.6" y="56" width="4.0" height="10" fill="#7E3FD0"/>
+    <rect x="458.6" y="56" width="4.0" height="10" fill="#4B2A3A"/>
   </g>
   <g class="in" style="animation-delay:0.00s">
     <rect x="24" y="94" width="10" height="10" rx="2" fill="#FF2D55"/>
     <text class="m lbl" x="42" y="104" style="fill:#FFE9EE">TypeScript</text>
-    <text class="m lbl" x="220" y="104" text-anchor="end">91.6%</text>
+    <text class="m lbl" x="220" y="104" text-anchor="end">92.5%</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <rect x="246" y="94" width="10" height="10" rx="2" fill="#FF5C7A"/>
     <text class="m lbl" x="264" y="104" style="fill:#FFE9EE">Python</text>
-    <text class="m lbl" x="442" y="104" text-anchor="end">4.5%</text>
+    <text class="m lbl" x="442" y="104" text-anchor="end">4.0%</text>
   </g>
   <g class="in" style="animation-delay:0.16s">
     <rect x="24" y="128" width="10" height="10" rx="2" fill="#D63384"/>
     <text class="m lbl" x="42" y="138" style="fill:#FFE9EE">JavaScript</text>
-    <text class="m lbl" x="220" y="138" text-anchor="end">2.5%</text>
+    <text class="m lbl" x="220" y="138" text-anchor="end">2.2%</text>
   </g>
   <g class="in" style="animation-delay:0.24s">
     <rect x="246" y="128" width="10" height="10" rx="2" fill="#A855F7"/>
     <text class="m lbl" x="264" y="138" style="fill:#FFE9EE">Java</text>
-    <text class="m lbl" x="442" y="138" text-anchor="end">0.9%</text>
+    <text class="m lbl" x="442" y="138" text-anchor="end">0.8%</text>
   </g>
   <g class="in" style="animation-delay:0.32s">
     <rect x="24" y="162" width="10" height="10" rx="2" fill="#7E3FD0"/>
