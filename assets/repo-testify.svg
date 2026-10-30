@@ -23,12 +23,12 @@
   <text class="m ttl" x="24" y="42" style="font-size:17px">Testify</text>
   <g class="in">
     <polygon points="377.00,30.50 378.72,34.63 383.18,34.99 379.78,37.90 380.82,42.26 377.00,39.92 373.18,42.26 374.22,37.90 370.82,34.99 375.28,34.63" fill="#FF2D55"/>
-    <text class="m lbl" x="387" y="42" style="fill:#FFE9EE">139</text>
+    <text class="m lbl" x="387" y="42" style="fill:#FFE9EE">140</text>
     <g transform="translate(425.2,30)" fill="none" stroke="#A855F7" stroke-width="1.5" stroke-linecap="round">
       <circle cx="3" cy="2.5" r="1.8"/><circle cx="11" cy="2.5" r="1.8"/><circle cx="7" cy="12.5" r="1.8"/>
       <path d="M3 4.3v1.4c0 1.4 1 2.3 2.3 2.3h3.4c1.3 0 2.3-0.9 2.3-2.3V4.3M7 8v2.7"/>
     </g>
-    <text class="m lbl" x="441.2" y="42" style="fill:#FFE9EE">56</text>
+    <text class="m lbl" x="441.2" y="42" style="fill:#FFE9EE">57</text>
   </g>
   <text class="s dsc" x="24" y="76">All-in-one Discord bot. Moderation, economy, music,</text>
   <text class="s dsc" x="24" y="96">tickets and games, with a web dashboard. Every command</text>
