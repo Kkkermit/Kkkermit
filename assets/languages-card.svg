@@ -23,9 +23,9 @@
   <clipPath id="bar"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
     <rect x="24" y="56" width="432" height="10" fill="#3A1220"/>
-    <rect x="24.0" y="56" width="397.1" height="10" fill="#FF2D55"/>
-    <rect x="421.1" y="56" width="18.5" height="10" fill="#FF5C7A"/>
-    <rect x="439.7" y="56" width="10.4" height="10" fill="#D63384"/>
+    <rect x="24.0" y="56" width="397.4" height="10" fill="#FF2D55"/>
+    <rect x="421.4" y="56" width="18.4" height="10" fill="#FF5C7A"/>
+    <rect x="439.8" y="56" width="10.3" height="10" fill="#D63384"/>
     <rect x="450.1" y="56" width="4.0" height="10" fill="#A855F7"/>
     <rect x="454.1" y="56" width="4.0" height="10" fill="#7E3FD0"/>
     <rect x="458.1" y="56" width="4.0" height="10" fill="#4B2A3A"/>
@@ -33,7 +33,7 @@
   <g class="in" style="animation-delay:0.00s">
     <rect x="24" y="94" width="10" height="10" rx="2" fill="#FF2D55"/>
     <text class="m lbl" x="42" y="104" style="fill:#FFE9EE">TypeScript</text>
-    <text class="m lbl" x="220" y="104" text-anchor="end">91.9%</text>
+    <text class="m lbl" x="220" y="104" text-anchor="end">92.0%</text>
   </g>
   <g class="in" style="animation-delay:0.08s">
     <rect x="246" y="94" width="10" height="10" rx="2" fill="#FF5C7A"/>
