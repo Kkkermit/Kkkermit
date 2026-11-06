@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs>
+
+    <radialGradient id="g1" cx="88%" cy="18%" r="48%"><stop offset="0" stop-color="#E11D48" stop-opacity=".55"/><stop offset="1" stop-color="#E11D48" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="98%" cy="100%" r="55%"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".55"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bar" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#FF4D6A"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <clipPath id="card"><rect width="1000" height="300" rx="20"/></clipPath>
+    <style>
+      .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace }
+      .in { animation: in .8s cubic-bezier(.2,.7,.2,1) both }
+      @keyframes in { from { opacity:0; transform:translateY(14px) } to { opacity:1; transform:none } }
+      @media (prefers-reduced-motion: reduce) { .in { animation:none } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="300" fill="#0D0A0F"/>
+    <rect width="1000" height="300" fill="url(#g1)"/>
+    <rect width="1000" height="300" fill="url(#g2)"/>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="20" fill="none" stroke="#2A2030" stroke-width="2"/>
+  <g class="in">
+    <text class="m" x="64" y="88" font-size="24" letter-spacing="5" fill="#A79CA6">HEY, I'M</text>
+    <text class="s" x="58" y="196" font-size="128" font-weight="800" letter-spacing="-5" fill="#F4EEF2">Kkermit<tspan fill="#FF4D6A">.</tspan></text>
+  </g>
+  <g class="in" style="animation-delay:.15s">
+    <rect x="64" y="222" width="72" height="6" rx="3" fill="url(#bar)"/>
+    <text class="s" x="156" y="234" font-size="34" font-weight="500" fill="#DCD2D9">Frontend &amp; Discord bot developer</text>
+  </g>
+</svg>
