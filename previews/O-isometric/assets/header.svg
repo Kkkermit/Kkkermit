@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style></defs>
+
+  <rect x="1" y="1" width="998" height="438" rx="14" fill="#111014" stroke="#25232B" stroke-width="2"/>
+  <path d="M770 243L899.9 318L770 393L640.1 318Z" fill="#A88BFF"/>
+  <path d="M640.1 318L770 393V439L640.1 364Z" fill="#7651E6"/>
+  <path d="M770 393L899.9 318V364L770 439Z" fill="#5634B8"/>
+  <text class="s" transform="matrix(.866 .5 0 1 654.1 326)" x="0" y="24" font-size="22" font-weight="800" fill="#fff">Discord.js</text>
+  <path d="M770 181L899.9 256L770 331L640.1 256Z" fill="#FF6B7C"/>
+  <path d="M640.1 256L770 331V377L640.1 302Z" fill="#E03A4E"/>
+  <path d="M770 331L899.9 256V302L770 377Z" fill="#A8213A"/>
+  <text class="s" transform="matrix(.866 .5 0 1 654.1 264)" x="0" y="24" font-size="22" font-weight="800" fill="#fff">TypeScript</text>
+  <path d="M770 119L899.9 194L770 269L640.1 194Z" fill="#E7E3EE"/>
+  <path d="M640.1 194L770 269V315L640.1 240Z" fill="#BDB7C9"/>
+  <path d="M770 269L899.9 194V240L770 315Z" fill="#8E879D"/>
+  <text class="s" transform="matrix(.866 .5 0 1 654.1 202)" x="0" y="24" font-size="22" font-weight="800" fill="#1B1922">React</text>
+  <path d="M862 79L901.836 102L862 125L822.164 102Z" fill="#FF6B7C"/>
+  <path d="M822.164 102L862 125V165L822.164 142Z" fill="#E03A4E"/>
+  <path d="M862 125L901.836 102V142L862 165Z" fill="#A8213A"/>
+  
+  <text class="s" x="52" y="186" font-size="102" font-weight="800" letter-spacing="-4" fill="#F4F2F7">Kkermit</text>
+  <text class="s" x="56" y="238" font-size="30" fill="#A9A6B2">Frontend &amp; Discord bot developer</text>
+  <text class="s" x="57" y="292" font-size="20" font-weight="600" letter-spacing="2" fill="#6F6C78">REACT · TYPESCRIPT · DISCORD.JS · JAVA</text>
+</svg>

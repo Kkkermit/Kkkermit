@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="GitHub stats">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style></defs>
+
+  <rect x="1" y="1" width="998" height="208" rx="6" fill="#F3EEE6" stroke="#DDD5C8" stroke-width="2"/>
+  <text class="s mul" x="50" y="118" font-size="76" font-weight="900" letter-spacing="-3" fill="#FF4F64">170</text>
+  <text class="s mul" x="44" y="112" font-size="76" font-weight="900" letter-spacing="-3" fill="#6C4AD6">170</text>
+  <text class="s" x="46" y="160" font-size="23" font-weight="600" fill="#2A2140">stars</text>
+  <text class="s mul" x="286" y="118" font-size="76" font-weight="900" letter-spacing="-3" fill="#FF4F64">1.1k</text>
+  <text class="s mul" x="280" y="112" font-size="76" font-weight="900" letter-spacing="-3" fill="#6C4AD6">1.1k</text>
+  <text class="s" x="282" y="160" font-size="23" font-weight="600" fill="#2A2140">commits</text>
+  <text class="s mul" x="522" y="118" font-size="76" font-weight="900" letter-spacing="-3" fill="#FF4F64">122</text>
+  <text class="s mul" x="516" y="112" font-size="76" font-weight="900" letter-spacing="-3" fill="#6C4AD6">122</text>
+  <text class="s" x="518" y="160" font-size="23" font-weight="600" fill="#2A2140">pull requests</text>
+  <text class="s mul" x="758" y="118" font-size="76" font-weight="900" letter-spacing="-3" fill="#FF4F64">73</text>
+  <text class="s mul" x="752" y="112" font-size="76" font-weight="900" letter-spacing="-3" fill="#6C4AD6">73</text>
+  <text class="s" x="754" y="160" font-size="23" font-weight="600" fill="#2A2140">forks</text>
+</svg>

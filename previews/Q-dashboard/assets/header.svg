@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style></defs>
+
+  <rect x="1" y="1" width="998" height="108" rx="14" fill="#121216" stroke="#26262C" stroke-width="2"/>
+  <rect x="30" y="27" width="56" height="56" rx="14" fill="#F43F5E"/>
+  <text class="s" x="58" y="67" font-size="32" font-weight="800" fill="#fff" text-anchor="middle">K</text>
+  <text class="s" x="106" y="66" font-size="31" font-weight="700" fill="#EDEDEF">Kkermit</text>
+  <text class="s" x="240" y="66" font-size="31" fill="#5E5E68">/ overview</text>
+  <text class="s" x="966" y="64" font-size="23" fill="#8A8A93" text-anchor="end">Frontend &amp; Discord bot developer</text>
+</svg>

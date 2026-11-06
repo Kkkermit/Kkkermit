@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="jest-ts-example">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style></defs>
+
+  <rect x="1" y="1" width="998" height="168" rx="14" fill="#111014" stroke="#25232B" stroke-width="2"/>
+  <path d="M76 33L126.22800000000001 62L76 91L25.772 62Z" fill="#FF6B7C"/>
+  <path d="M25.772 62L76 91V121L25.772 92Z" fill="#E03A4E"/>
+  <path d="M76 91L126.22800000000001 62V92L76 121Z" fill="#A8213A"/>
+  
+  <text class="s" x="140" y="66" font-size="38" font-weight="800" fill="#F4F2F7">jest-ts-example</text>
+  <text class="s" x="960" y="64" font-size="24" fill="#A9A6B2" text-anchor="end">2 stars · TypeScript</text>
+  <text class="s" x="140" y="108" font-size="25" fill="#A9A6B2">React and TypeScript starter on Vite, set up for Jest,</text><text class="s" x="140" y="140" font-size="25" fill="#A9A6B2">Vitest and Tailwind.</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="presentation">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style><pattern id="rd" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2.4" fill="#FF4F64"/></pattern></defs>
+
+  <rect x="0" y="8" width="1000" height="18" fill="url(#rd)"/>
+  <rect class="mul" x="430" y="8" width="140" height="18" fill="#6C4AD6"/>
+</svg>
