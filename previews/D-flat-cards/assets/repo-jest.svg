@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" width="1000" height="176" role="img" aria-label="jest-ts-example">
+  <style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style>
+
+  <rect x="1" y="1" width="998" height="174" rx="12" fill="#131316" stroke="#2A2A30" stroke-width="2"/>
+  <text class="s" x="40" y="66" font-size="38" font-weight="700" fill="#F2F2F4">jest-ts-example</text>
+  <text class="s" x="960" y="64" font-size="25" fill="#A0A0A8" text-anchor="end">2 stars  ·  0 forks</text>
+  <text class="s" x="40" y="110" font-size="27" fill="#A0A0A8">React and TypeScript starter on Vite, set up for Jest, Vitest</text>
+  <text class="s" x="40" y="144" font-size="27" fill="#A0A0A8">and Tailwind.</text>
+  <circle cx="797" cy="143" r="7" fill="#E5484D"/>
+  <text class="s" x="960" y="151" font-size="24" fill="#A0A0A8" text-anchor="end">TypeScript</text>
+</svg>
