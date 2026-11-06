@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs>
+
+    <pattern id="grid-m" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#A78BFA" stroke-opacity=".08"/></pattern>
+    <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="url(#grid-m)"/><path d="M100 0H0V100" fill="none" stroke="#A78BFA" stroke-opacity=".18"/></pattern>
+    <marker id="ar" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#A78BFA"/></marker>
+    <clipPath id="c"><rect width="1000" height="420" rx="14"/></clipPath>
+    <style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="1000" height="420" fill="#0F0A1F"/>
+    <rect width="1000" height="420" fill="url(#grid)"/>
+  </g>
+  <rect x="16" y="16" width="968" height="388" fill="none" stroke="#A78BFA" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M80 60V80" stroke="#A78BFA" stroke-width="2"/><path d="M840 60V80" stroke="#A78BFA" stroke-width="2"/>
+  <path d="M84 70H836" stroke="#A78BFA" stroke-width="2" marker-start="url(#ar)" marker-end="url(#ar)"/>
+  <rect x="210" y="56" width="500" height="28" fill="#0F0A1F"/>
+  <text class="m" x="460" y="77" font-size="20" fill="#ECE7FF" text-anchor="middle" letter-spacing="2">FRONTEND &amp; DISCORD BOT DEVELOPER</text>
+  <text class="s" x="80" y="236" font-size="150" font-weight="800" fill="none" stroke="#ECE7FF" stroke-width="2.5" textLength="760" lengthAdjust="spacingAndGlyphs">KKERMIT</text>
+  <circle cx="110" cy="150" r="8" fill="#FF4D6A"/>
+  <path d="M110 158V302H140" fill="none" stroke="#FF4D6A" stroke-width="2"/>
+  <text class="m" x="150" y="309" font-size="21" fill="#ECE7FF">REACT · TYPESCRIPT</text>
+  <circle cx="788" cy="150" r="8" fill="#FF4D6A"/>
+  <path d="M788 158V262H758" fill="none" stroke="#FF4D6A" stroke-width="2"/>
+  <text class="m" x="748" y="269" font-size="21" fill="#ECE7FF" text-anchor="end">DISCORD.JS · JDA</text>
+  <g class="m" font-size="15" fill="#A99BDD">
+    <rect x="640" y="316" width="328" height="74" fill="#0F0A1F" stroke="#A78BFA" stroke-opacity=".7" stroke-width="1.5"/>
+    <path d="M640 341H968M640 366H968M740 316V390" stroke="#A78BFA" stroke-opacity=".45"/>
+    <text x="652" y="334">PROJECT</text><text x="752" y="334" fill="#ECE7FF">kkermit / profile</text>
+    <text x="652" y="359">AUTHOR</text><text x="752" y="359" fill="#ECE7FF">Kkermit</text>
+    <text x="652" y="384">SHEET</text><text x="752" y="384" fill="#ECE7FF">1 OF 1</text>
+  </g>
+</svg>
