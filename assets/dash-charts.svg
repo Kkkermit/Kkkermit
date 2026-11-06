@@ -1,27 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Stars by repository and language split">
-  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } .mul { mix-blend-mode:multiply } </style></defs>
-
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } </style></defs>
   <rect x="1" y="1" width="998" height="378" rx="14" fill="#121216" stroke="#26262C" stroke-width="2"/>
   <text class="s" x="40" y="62" font-size="24" font-weight="600" fill="#EDEDEF">Stars by repository</text>
   <path d="M620 32V348" stroke="#26262C" stroke-width="2"/>
   <text class="s" x="654" y="62" font-size="24" font-weight="600" fill="#EDEDEF">Languages</text>
   <text class="s" x="40" y="124" font-size="21" fill="#A1A1AA">Testify</text>
   <rect x="236" y="106" width="300.0" height="24" rx="5" fill="#F43F5E"/>
-  <text class="s" x="548" y="125" font-size="20" fill="#8A8A93">140</text>
+  <text class="s" x="548.0" y="125" font-size="20" fill="#8A8A93">140</text>
   <text class="s" x="40" y="174" font-size="21" fill="#A1A1AA">Bot template</text>
   <rect x="236" y="156" width="34.3" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="282.2857142857143" y="175" font-size="20" fill="#8A8A93">16</text>
+  <text class="s" x="282.3" y="175" font-size="20" fill="#8A8A93">16</text>
   <text class="s" x="40" y="224" font-size="21" fill="#A1A1AA">Discord-RPC</text>
   <rect x="236" y="206" width="6.4" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="254.42857142857142" y="225" font-size="20" fill="#8A8A93">3</text>
+  <text class="s" x="254.4" y="225" font-size="20" fill="#8A8A93">3</text>
   <text class="s" x="40" y="274" font-size="21" fill="#A1A1AA">Statify</text>
   <rect x="236" y="256" width="6.0" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="254" y="275" font-size="20" fill="#8A8A93">2</text>
+  <text class="s" x="254.0" y="275" font-size="20" fill="#8A8A93">2</text>
   <text class="s" x="40" y="324" font-size="21" fill="#A1A1AA">jest-ts-example</text>
   <rect x="236" y="306" width="6.0" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="254" y="325" font-size="20" fill="#8A8A93">2</text>
+  <text class="s" x="254.0" y="325" font-size="20" fill="#8A8A93">2</text>
   <circle cx="734" cy="214" r="92" fill="none" stroke="#F43F5E" stroke-width="30" stroke-dasharray="535.28 42.78" stroke-dashoffset="0.00" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#8B5CF6" stroke-width="30" stroke-dasharray="23.12 554.93" stroke-dashoffset="-535.28" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#A1A1AA" stroke-width="30" stroke-dasharray="12.72 565.34" stroke-dashoffset="-558.40" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#3A3A44" stroke-width="30" stroke-dasharray="6.94 571.12" stroke-dashoffset="-571.12" transform="rotate(-90 734 214)"/>
   <text class="s" x="734" y="220" font-size="30" font-weight="700" fill="#EDEDEF" text-anchor="middle">93%</text>
   <text class="s" x="734" y="246" font-size="16" fill="#5E5E68" text-anchor="middle">TypeScript</text>
-  <rect x="856" y="142" width="14" height="14" rx="3" fill="#F43F5E"/><text class="s" x="878" y="155" font-size="19" fill="#8A8A93">TypeScript</text><text class="s" x="878" y="175" font-size="15" fill="#5E5E68">92.6%</text><rect x="856" y="182" width="14" height="14" rx="3" fill="#8B5CF6"/><text class="s" x="878" y="195" font-size="19" fill="#8A8A93">Python</text><text class="s" x="878" y="215" font-size="15" fill="#5E5E68">4.0%</text><rect x="856" y="222" width="14" height="14" rx="3" fill="#A1A1AA"/><text class="s" x="878" y="235" font-size="19" fill="#8A8A93">JavaScript</text><text class="s" x="878" y="255" font-size="15" fill="#5E5E68">2.2%</text><rect x="856" y="262" width="14" height="14" rx="3" fill="#3A3A44"/><text class="s" x="878" y="275" font-size="19" fill="#8A8A93">Other</text><text class="s" x="878" y="295" font-size="15" fill="#5E5E68">1.2%</text>
+  <rect x="856" y="142" width="14" height="14" rx="3" fill="#F43F5E"/>
+  <text class="s" x="878" y="155" font-size="19" fill="#8A8A93">TypeScript</text>
+  <text class="s" x="878" y="175" font-size="15" fill="#5E5E68">92.6%</text>
+  <rect x="856" y="182" width="14" height="14" rx="3" fill="#8B5CF6"/>
+  <text class="s" x="878" y="195" font-size="19" fill="#8A8A93">Python</text>
+  <text class="s" x="878" y="215" font-size="15" fill="#5E5E68">4.0%</text>
+  <rect x="856" y="222" width="14" height="14" rx="3" fill="#A1A1AA"/>
+  <text class="s" x="878" y="235" font-size="19" fill="#8A8A93">JavaScript</text>
+  <text class="s" x="878" y="255" font-size="15" fill="#5E5E68">2.2%</text>
+  <rect x="856" y="262" width="14" height="14" rx="3" fill="#3A3A44"/>
+  <text class="s" x="878" y="275" font-size="19" fill="#8A8A93">Other</text>
+  <text class="s" x="878" y="295" font-size="15" fill="#5E5E68">1.2%</text>
 </svg>
