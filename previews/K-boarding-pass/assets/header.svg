@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style><mask id="cut"><rect width="1000" height="380" fill="#fff"/><circle cx="730" cy="10" r="20" fill="#000"/><circle cx="730" cy="370" r="20" fill="#000"/></mask></defs>
+
+  <g mask="url(#cut)">
+    <rect x="10" y="10" width="980" height="360" rx="20" fill="#F4F1EC"/>
+    <rect x="10" y="10" width="980" height="70" fill="#D7263D"/>
+    <rect x="10" y="10" width="980" height="30" rx="20" fill="#D7263D"/>
+  </g>
+  <text class="m" x="40" y="55" font-size="22" font-weight="700" letter-spacing="4" fill="#fff">BOARDING PASS</text>
+  <text class="m" x="760" y="55" font-size="18" font-weight="700" letter-spacing="3" fill="#fff">KK 2026</text>
+  <path d="M730 48V340" stroke="#B9B2A8" stroke-width="2.5" stroke-dasharray="8 8"/>
+  <text class="m" x="40" y="118" font-size="15" letter-spacing="2" fill="#8A8178">PASSENGER</text><text class="s" x="40" y="150" font-size="26" font-weight="700" fill="#1A1A1A">KKERMIT</text>
+  <text class="m" x="330" y="118" font-size="15" letter-spacing="2" fill="#8A8178">FLIGHT</text><text class="s" x="330" y="150" font-size="26" font-weight="700" fill="#1A1A1A">TESTIFY V2</text>
+  <text class="m" x="540" y="118" font-size="15" letter-spacing="2" fill="#8A8178">GATE</text><text class="s" x="540" y="150" font-size="26" font-weight="700" fill="#1A1A1A">GITHUB</text>
+  <text class="m" x="40" y="205" font-size="15" letter-spacing="2" fill="#8A8178">FROM</text>
+  <text class="s" x="34" y="292" font-size="100" font-weight="800" letter-spacing="-3" fill="#1A1A1A">FE</text>
+  <text class="s" x="40" y="330" font-size="21" fill="#5B5550">Frontend</text>
+  <g transform="translate(232 238)">
+    <path d="M0 18H150" stroke="#6D3FB5" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round"/>
+    <path d="M150 18L128 4H116L124 15H96L88 8H80L84 18L80 28H88L96 21H124L116 32H128Z" fill="#6D3FB5"/>
+  </g>
+  <text class="m" x="430" y="205" font-size="15" letter-spacing="2" fill="#8A8178">TO</text>
+  <text class="s" x="424" y="292" font-size="100" font-weight="800" letter-spacing="-3" fill="#1A1A1A">DB</text>
+  <text class="s" x="430" y="330" font-size="21" fill="#5B5550">Discord bots</text>
+  <text class="m" x="610" y="205" font-size="15" letter-spacing="2" fill="#8A8178">CLASS</text><text class="s" x="610" y="236" font-size="30" font-weight="700" fill="#1A1A1A">TS</text>
+  <text class="m" x="610" y="285" font-size="15" letter-spacing="2" fill="#8A8178">SEAT</text><text class="s" x="610" y="316" font-size="30" font-weight="700" fill="#1A1A1A">1K</text>
+  <text class="m" x="760" y="118" font-size="15" letter-spacing="2" fill="#8A8178">PASSENGER</text><text class="s" x="760" y="148" font-size="24" font-weight="700" fill="#1A1A1A">KKERMIT</text>
+  <text class="m" x="760" y="190" font-size="15" letter-spacing="2" fill="#8A8178">FROM / TO</text><text class="s" x="760" y="222" font-size="26" font-weight="700" fill="#1A1A1A">FE → DB</text>
+  <g fill="#1A1A1A"><rect x="760" y="262" width="0" height="66"/><rect x="762" y="262" width="6" height="66"/><rect x="770" y="262" width="5" height="66"/><rect x="777" y="262" width="4" height="66"/><rect x="800" y="262" width="3" height="66"/><rect x="805" y="262" width="2" height="66"/><rect x="809" y="262" width="1" height="66"/><rect x="812" y="262" width="1" height="66"/><rect x="815" y="262" width="-2" height="66"/><rect x="815" y="262" width="1" height="66"/><rect x="818" y="262" width="5" height="66"/><rect x="825" y="262" width="0" height="66"/><rect x="827" y="262" width="2" height="66"/><rect x="831" y="262" width="5" height="66"/><rect x="838" y="262" width="-2" height="66"/><rect x="838" y="262" width="1" height="66"/><rect x="841" y="262" width="3" height="66"/><rect x="846" y="262" width="3" height="66"/><rect x="851" y="262" width="4" height="66"/><rect x="857" y="262" width="2" height="66"/><rect x="861" y="262" width="-1" height="66"/><rect x="862" y="262" width="2" height="66"/><rect x="866" y="262" width="5" height="66"/><rect x="873" y="262" width="6" height="66"/><rect x="881" y="262" width="-2" height="66"/><rect x="881" y="262" width="6" height="66"/><rect x="889" y="262" width="-2" height="66"/><rect x="889" y="262" width="-1" height="66"/><rect x="890" y="262" width="6" height="66"/><rect x="898" y="262" width="2" height="66"/><rect x="902" y="262" width="3" height="66"/><rect x="907" y="262" width="2" height="66"/><rect x="911" y="262" width="5" height="66"/><rect x="918" y="262" width="-2" height="66"/><rect x="918" y="262" width="3" height="66"/><rect x="923" y="262" width="4" height="66"/><rect x="929" y="262" width="3" height="66"/><rect x="938" y="262" width="5" height="66"/><rect x="945" y="262" width="6" height="66"/><rect x="953" y="262" width="0" height="66"/><rect x="955" y="262" width="4" height="66"/></g>
+</svg>

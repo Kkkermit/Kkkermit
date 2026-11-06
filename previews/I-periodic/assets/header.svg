@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style></defs>
+
+  <rect x="1" y="1" width="998" height="298" rx="10" fill="#141418" stroke="#2A2A30" stroke-width="2"/>
+  
+  <rect x="40" y="40" width="220" height="220" rx="6" fill="#D7263D"/>
+  <text class="m" x="56" y="74" font-size="22" fill="#fff" fill-opacity=".9">2023</text>
+  <text class="m" x="244" y="74" font-size="20" fill="#fff" fill-opacity=".75" text-anchor="end">FE</text>
+  <text class="s" x="150" y="185.20000000000002" font-size="96.8" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-2">Kk</text>
+  <text class="s" x="150" y="238" font-size="22" fill="#fff" fill-opacity=".9" text-anchor="middle">Kkermit</text>
+  <text class="s" x="300" y="124" font-size="66" font-weight="800" letter-spacing="-2" fill="#F2F2F4">Kkermit</text>
+  <text class="s" x="302" y="172" font-size="30" fill="#A0A0A8">Frontend &amp; Discord bot developer</text>
+  <text class="m" x="302" y="222" font-size="20" fill="#6E6E77" xml:space="preserve">group     frontend, discord bots</text>
+  <text class="m" x="302" y="252" font-size="20" fill="#6E6E77" xml:space="preserve">period    on GitHub since 2023</text>
+</svg>

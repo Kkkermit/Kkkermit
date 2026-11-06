@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" role="img" aria-label="Projects as element tiles">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style></defs>
+
+  <rect x="1" y="1" width="998" height="288" rx="10" fill="#141418" stroke="#2A2A30" stroke-width="2"/>
+  
+  <rect x="21" y="35" width="220" height="220" rx="6" fill="#D7263D"/>
+  <text class="m" x="37" y="69" font-size="22" fill="#fff" fill-opacity=".9">140 ★</text>
+  <text class="m" x="225" y="69" font-size="20" fill="#fff" fill-opacity=".75" text-anchor="end">TS</text>
+  <text class="s" x="131" y="180.20000000000002" font-size="96.8" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-2">Ts</text>
+  <text class="s" x="131" y="233" font-size="22" fill="#fff" fill-opacity=".9" text-anchor="middle">Testify</text>
+  <rect x="267" y="35" width="220" height="220" rx="6" fill="#6D3FB5"/>
+  <text class="m" x="283" y="69" font-size="22" fill="#fff" fill-opacity=".9">16 ★</text>
+  <text class="m" x="471" y="69" font-size="20" fill="#fff" fill-opacity=".75" text-anchor="end">JS</text>
+  <text class="s" x="377" y="180.20000000000002" font-size="96.8" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-2">Dt</text>
+  <text class="s" x="377" y="233" font-size="22" fill="#fff" fill-opacity=".9" text-anchor="middle">Bot template</text>
+  <rect x="513" y="35" width="220" height="220" rx="6" fill="#26262B" stroke="#D7263D" stroke-width="4"/>
+  <text class="m" x="529" y="69" font-size="22" fill="#fff" fill-opacity=".9">2 ★</text>
+  <text class="m" x="717" y="69" font-size="20" fill="#fff" fill-opacity=".75" text-anchor="end">JV</text>
+  <text class="s" x="623" y="180.20000000000002" font-size="96.8" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-2">St</text>
+  <text class="s" x="623" y="233" font-size="22" fill="#fff" fill-opacity=".9" text-anchor="middle">Statify</text>
+  <rect x="759" y="35" width="220" height="220" rx="6" fill="#26262B" stroke="#6D3FB5" stroke-width="4"/>
+  <text class="m" x="775" y="69" font-size="22" fill="#fff" fill-opacity=".9">2 ★</text>
+  <text class="m" x="963" y="69" font-size="20" fill="#fff" fill-opacity=".75" text-anchor="end">TS</text>
+  <text class="s" x="869" y="180.20000000000002" font-size="96.8" font-weight="800" fill="#fff" text-anchor="middle" letter-spacing="-2">Je</text>
+  <text class="s" x="869" y="233" font-size="22" fill="#fff" fill-opacity=".9" text-anchor="middle">jest-ts-example</text>
+</svg>

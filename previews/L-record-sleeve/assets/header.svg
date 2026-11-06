@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style></defs>
+
+  <rect x="1" y="1" width="998" height="438" rx="10" fill="#111013" stroke="#26252A" stroke-width="2"/>
+  <circle cx="520" cy="220" r="190" fill="#0A0A0B"/>
+  <circle cx="520" cy="220" r="76" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="83" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="90" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="97" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="104" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="111" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="118" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="125" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="132" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="139" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="146" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="153" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="160" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="167" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="174" fill="none" stroke="#232326" stroke-width="1.2"/><circle cx="520" cy="220" r="181" fill="none" stroke="#232326" stroke-width="1.2"/>
+  <circle cx="520" cy="220" r="66" fill="#D7263D"/>
+  <circle cx="520" cy="220" r="7" fill="#111013"/>
+  <text class="s" x="554" y="226" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" transform="rotate(-90 554 220)">SIDE A</text>
+  <rect x="40" y="30" width="380" height="380" fill="#5B3FA8"/>
+  <rect x="40" y="250" width="380" height="14" fill="#D7263D"/>
+  <text class="s" x="66" y="112" font-size="64" font-weight="800" letter-spacing="-2" fill="#F4F1EC">Kkermit</text>
+  <text class="s" x="68" y="152" font-size="25" font-weight="500" fill="#F4F1EC" fill-opacity=".85">Selected works</text>
+  <text class="m" x="68" y="380" font-size="18" letter-spacing="3" fill="#F4F1EC" fill-opacity=".85">2023 – NOW</text>
+  <text class="m" x="740" y="108" font-size="16" letter-spacing="3" fill="#8F8C96">TRACKLIST</text>
+  <text class="m" x="740" y="150" font-size="20" fill="#E9E7EC"><tspan fill="#D7263D">A1</tspan>  Testify</text>
+  <text class="m" x="740" y="188" font-size="20" fill="#E9E7EC"><tspan fill="#D7263D">A2</tspan>  Bot template</text>
+  <text class="m" x="740" y="226" font-size="20" fill="#E9E7EC"><tspan fill="#D7263D">B1</tspan>  Statify</text>
+  <text class="m" x="740" y="264" font-size="20" fill="#E9E7EC"><tspan fill="#D7263D">B2</tspan>  jest-ts-example</text>
+  <text class="m" x="740" y="322" font-size="16" fill="#8F8C96">FRONTEND &amp; BOTS</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Kkermit. Frontend and Discord bot developer">
+  <defs><style> .s { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif } .m { font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace } </style></defs>
+
+  <rect x="1" y="1" width="998" height="138" rx="10" fill="#111111"/>
+  <circle cx="74" cy="70" r="38" fill="#D7263D"/>
+  <text class="s" x="74" y="86" font-size="44" font-weight="800" fill="#fff" text-anchor="middle">K</text>
+  <text class="s" x="132" y="89" font-size="54" font-weight="800" letter-spacing="-1" fill="#fff">Kkermit</text>
+  <text class="s" x="960" y="84" font-size="25" fill="#BDBDBD" text-anchor="end">Frontend &amp; Discord bot developer</text>
+</svg>
