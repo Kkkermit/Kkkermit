@@ -33,7 +33,7 @@ Discord bot in Java (JDA) that shows your Spotify listening stats.
 **[jest-ts-example](https://github.com/Kkkermit/jest-ts-example)** &nbsp;<sub>TypeScript</sub><br/>
 React and TypeScript starter on Vite, set up for Jest, Vitest and Tailwind.
 
-<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git, Claude, OpenAI, Conda and Miniconda" />
+<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git, Claude, OpenAI, Conda, Miniconda, axe, accessibility, WCAG, macOS, Windows, Linux, Debian and Ubuntu" />
 
 <details>
 <summary>Stack as text</summary>
@@ -43,7 +43,9 @@ React and TypeScript starter on Vite, set up for Jest, Vitest and Tailwind.
 **Testing and quality:** Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube<br/>
 **Backend and bots:** Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL<br/>
 **Pipeline:** Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git<br/>
-**AI and Python:** Claude, OpenAI, Conda, Miniconda
+**AI and Python:** Claude, OpenAI, Conda, Miniconda<br/>
+**Accessibility:** axe, accessibility testing, WCAG<br/>
+**Platforms:** macOS, Windows, Linux, Debian, Ubuntu
 
 </details>
 
