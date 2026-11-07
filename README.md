@@ -1,5 +1,7 @@
 <img src="assets/dash-topbar.svg" width="100%" alt="Kkermit. Frontend and Discord bot developer" />
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Kkkermit&label=Profile%20views&color=F43F5E&labelColor=121216&style=flat-square" alt="Profile views" /></p>
+
 <img src="assets/dash-kpis.svg" width="100%" alt="GitHub stats: stars, commits, pull requests and forks" />
 
 <img src="assets/dash-charts.svg" width="100%" alt="Stars by repository and language split" />
@@ -31,12 +33,17 @@ Discord bot in Java (JDA) that shows your Spotify listening stats.
 **[jest-ts-example](https://github.com/Kkkermit/jest-ts-example)** &nbsp;<sub>TypeScript</sub><br/>
 React and TypeScript starter on Vite, set up for Jest, Vitest and Tailwind.
 
-#### Stack
+<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, GitLab, Docker and Git" />
+
+<details>
+<summary>Stack as text</summary>
 
 **Languages:** TypeScript, JavaScript, Java, HTML, CSS<br/>
 **Frontend:** React, Vue, Redux, Tailwind, Vite<br/>
 **Testing:** Jest, Testing Library, Vitest, Cypress, Playwright<br/>
 **Backend and bots:** Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL<br/>
 **Pipeline:** Jenkins, OpenShift, GitLab, Docker, Git
+
+</details>
 
 [Discord](https://discord.com/users/526853643962679323) &nbsp;·&nbsp; [Website](https://joshetn.dev) &nbsp;·&nbsp; [Bots for sale](https://buymeacoffee.com/kkermit/extras) &nbsp;·&nbsp; [Buy me a coffee](https://buymeacoffee.com/kkermit)
