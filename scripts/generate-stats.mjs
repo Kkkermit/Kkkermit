@@ -95,13 +95,13 @@ async function collect() {
       stars: 170,
       commits: 1100,
       forks: 73,
-      prs: 122,
+      prs: 137,
       repos: 10,
       languages: [
-        { name: "TypeScript", size: 926 },
-        { name: "Python", size: 40 },
-        { name: "JavaScript", size: 22 },
-        { name: "Java", size: 8 },
+        { name: "TypeScript", size: 934 },
+        { name: "Python", size: 35 },
+        { name: "JavaScript", size: 20 },
+        { name: "Java", size: 7 },
         { name: "CSS", size: 4 },
       ],
       topRepos: [
