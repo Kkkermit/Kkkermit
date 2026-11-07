@@ -33,16 +33,17 @@ Discord bot in Java (JDA) that shows your Spotify listening stats.
 **[jest-ts-example](https://github.com/Kkkermit/jest-ts-example)** &nbsp;<sub>TypeScript</sub><br/>
 React and TypeScript starter on Vite, set up for Jest, Vitest and Tailwind.
 
-<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, GitLab, Docker and Git" />
+<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git, Claude, OpenAI, Conda and Miniconda" />
 
 <details>
 <summary>Stack as text</summary>
 
-**Languages:** TypeScript, JavaScript, Java, HTML, CSS<br/>
+**Languages:** TypeScript, JavaScript, Python, Java, HTML, CSS<br/>
 **Frontend:** React, Vue, Redux, Tailwind, Vite<br/>
-**Testing:** Jest, Testing Library, Vitest, Cypress, Playwright<br/>
+**Testing and quality:** Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube<br/>
 **Backend and bots:** Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL<br/>
-**Pipeline:** Jenkins, OpenShift, GitLab, Docker, Git
+**Pipeline:** Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git<br/>
+**AI and Python:** Claude, OpenAI, Conda, Miniconda
 
 </details>
 
