@@ -33,18 +33,22 @@ Discord bot in Java (JDA) that shows your Spotify listening stats.
 **[jest-ts-example](https://github.com/Kkkermit/jest-ts-example)** &nbsp;<sub>TypeScript</sub><br/>
 React and TypeScript starter on Vite, set up for Jest, Vitest and Tailwind.
 
-<img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git, Claude, OpenAI, Conda, Miniconda, axe, accessibility, WCAG, macOS, Windows, Linux, Debian and Ubuntu" />
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/dash-stack-narrow.svg" />
+  <img src="assets/dash-stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, HTML, CSS, React, Vue, Redux, Tailwind, Vite, Jest, Testing Library, Vitest, JUnit, Cypress, Playwright, Karate, Cucumber, Gherkin, SonarQube, axe, accessibility, WCAG, Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL, Jenkins, OpenShift, Kubernetes, Docker, Git, GitHub, GitLab, Bitbucket, Jira, Atlassian, Claude, OpenAI, Conda, Miniconda, macOS, Windows, Linux, Debian and Ubuntu" />
+</picture>
 
 <details>
 <summary>Stack as text</summary>
 
 **Languages:** TypeScript, JavaScript, Python, Java, HTML, CSS<br/>
 **Frontend:** React, Vue, Redux, Tailwind, Vite<br/>
-**Testing and quality:** Jest, Testing Library, Vitest, Cypress, Playwright, SonarQube<br/>
+**Testing:** Jest, Testing Library, Vitest, JUnit, Cypress, Playwright, Karate, Cucumber, Gherkin<br/>
+**Quality and accessibility:** SonarQube, axe, accessibility testing, WCAG<br/>
 **Backend and bots:** Node.js, Discord.js, Spring, Gradle, MongoDB, MySQL<br/>
-**Pipeline:** Jenkins, OpenShift, Kubernetes, GitLab, Docker, Git<br/>
+**CI/CD and containers:** Jenkins, OpenShift, Kubernetes, Docker<br/>
+**Git and collaboration:** Git, GitHub, GitLab, Bitbucket, Jira, Atlassian<br/>
 **AI and Python:** Claude, OpenAI, Conda, Miniconda<br/>
-**Accessibility:** axe, accessibility testing, WCAG<br/>
 **Platforms:** macOS, Windows, Linux, Debian, Ubuntu
 
 </details>
