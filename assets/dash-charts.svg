@@ -6,10 +6,10 @@
   <text class="s" x="654" y="62" font-size="24" font-weight="600" fill="#EDEDEF">Languages</text>
   <text class="s" x="40" y="124" font-size="21" fill="#A1A1AA">Testify</text>
   <rect x="236" y="106" width="300.0" height="24" rx="5" fill="#F43F5E"/>
-  <text class="s" x="548.0" y="125" font-size="20" fill="#8A8A93">142</text>
+  <text class="s" x="548.0" y="125" font-size="20" fill="#8A8A93">143</text>
   <text class="s" x="40" y="174" font-size="21" fill="#A1A1AA">Bot template</text>
-  <rect x="236" y="156" width="33.8" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="281.8" y="175" font-size="20" fill="#8A8A93">16</text>
+  <rect x="236" y="156" width="33.6" height="24" rx="5" fill="#8B5CF6"/>
+  <text class="s" x="281.6" y="175" font-size="20" fill="#8A8A93">16</text>
   <text class="s" x="40" y="224" font-size="21" fill="#A1A1AA">Discord-RPC</text>
   <rect x="236" y="206" width="6.3" height="24" rx="5" fill="#8B5CF6"/>
   <text class="s" x="254.3" y="225" font-size="20" fill="#8A8A93">3</text>
