@@ -10,10 +10,10 @@
   <text class="s" x="281" y="148" font-size="18" fill="#5E5E68">all time</text>
   <rect x="513" y="1" width="230" height="174" rx="14" fill="#121216" stroke="#26262C" stroke-width="2"/>
   <text class="s" x="537" y="46" font-size="21" fill="#8A8A93">Pull requests</text>
-  <text class="s" x="535" y="112" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#EDEDEF">158</text>
+  <text class="s" x="535" y="112" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#EDEDEF">164</text>
   <text class="s" x="537" y="148" font-size="18" fill="#5E5E68">opened</text>
   <rect x="769" y="1" width="230" height="174" rx="14" fill="#121216" stroke="#26262C" stroke-width="2"/>
   <text class="s" x="793" y="46" font-size="21" fill="#8A8A93">Forks</text>
-  <text class="s" x="791" y="112" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#EDEDEF">73</text>
+  <text class="s" x="791" y="112" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#EDEDEF">74</text>
   <text class="s" x="793" y="148" font-size="18" fill="#5E5E68">of my repos</text>
 </svg>
