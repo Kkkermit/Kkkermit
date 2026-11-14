@@ -6,10 +6,10 @@
   <text class="s" x="654" y="62" font-size="24" font-weight="600" fill="#EDEDEF">Languages</text>
   <text class="s" x="40" y="124" font-size="21" fill="#A1A1AA">Testify</text>
   <rect x="236" y="106" width="300.0" height="24" rx="5" fill="#F43F5E"/>
-  <text class="s" x="548.0" y="125" font-size="20" fill="#8A8A93">143</text>
+  <text class="s" x="548.0" y="125" font-size="20" fill="#8A8A93">144</text>
   <text class="s" x="40" y="174" font-size="21" fill="#A1A1AA">Bot template</text>
-  <rect x="236" y="156" width="33.6" height="24" rx="5" fill="#8B5CF6"/>
-  <text class="s" x="281.6" y="175" font-size="20" fill="#8A8A93">16</text>
+  <rect x="236" y="156" width="33.3" height="24" rx="5" fill="#8B5CF6"/>
+  <text class="s" x="281.3" y="175" font-size="20" fill="#8A8A93">16</text>
   <text class="s" x="40" y="224" font-size="21" fill="#A1A1AA">Discord-RPC</text>
   <rect x="236" y="206" width="6.3" height="24" rx="5" fill="#8B5CF6"/>
   <text class="s" x="254.3" y="225" font-size="20" fill="#8A8A93">3</text>
@@ -19,7 +19,7 @@
   <text class="s" x="40" y="324" font-size="21" fill="#A1A1AA">Spotify-Stats</text>
   <rect x="236" y="306" width="6.0" height="24" rx="5" fill="#8B5CF6"/>
   <text class="s" x="254.0" y="325" font-size="20" fill="#8A8A93">2</text>
-  <circle cx="734" cy="214" r="92" fill="none" stroke="#F43F5E" stroke-width="30" stroke-dasharray="542.57 35.48" stroke-dashoffset="0.00" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#8B5CF6" stroke-width="30" stroke-dasharray="18.61 559.45" stroke-dashoffset="-542.57" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#A1A1AA" stroke-width="30" stroke-dasharray="10.60 567.45" stroke-dashoffset="-561.18" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#3A3A44" stroke-width="30" stroke-dasharray="6.27 571.78" stroke-dashoffset="-571.78" transform="rotate(-90 734 214)"/>
+  <circle cx="734" cy="214" r="92" fill="none" stroke="#F43F5E" stroke-width="30" stroke-dasharray="542.67 35.39" stroke-dashoffset="0.00" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#8B5CF6" stroke-width="30" stroke-dasharray="18.56 559.49" stroke-dashoffset="-542.67" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#A1A1AA" stroke-width="30" stroke-dasharray="10.58 567.48" stroke-dashoffset="-561.22" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#3A3A44" stroke-width="30" stroke-dasharray="6.25 571.80" stroke-dashoffset="-571.80" transform="rotate(-90 734 214)"/>
   <text class="s" x="734" y="220" font-size="30" font-weight="700" fill="#EDEDEF" text-anchor="middle">94%</text>
   <text class="s" x="734" y="246" font-size="16" fill="#5E5E68" text-anchor="middle">TypeScript</text>
   <rect x="856" y="142" width="14" height="14" rx="3" fill="#F43F5E"/>
