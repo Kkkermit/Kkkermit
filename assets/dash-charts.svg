@@ -19,19 +19,19 @@
   <text class="s" x="40" y="324" font-size="21" fill="#A1A1AA">Spotify-Stats</text>
   <rect x="236" y="306" width="6.0" height="24" rx="5" fill="#8B5CF6"/>
   <text class="s" x="254.0" y="325" font-size="20" fill="#8A8A93">2</text>
-  <circle cx="734" cy="214" r="92" fill="none" stroke="#F43F5E" stroke-width="30" stroke-dasharray="528.98 49.07" stroke-dashoffset="0.00" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#8B5CF6" stroke-width="30" stroke-dasharray="14.75 563.30" stroke-dashoffset="-528.98" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#A1A1AA" stroke-width="30" stroke-dasharray="13.94 564.11" stroke-dashoffset="-543.73" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#3A3A44" stroke-width="30" stroke-dasharray="20.38 557.67" stroke-dashoffset="-557.67" transform="rotate(-90 734 214)"/>
-  <text class="s" x="734" y="220" font-size="30" font-weight="700" fill="#EDEDEF" text-anchor="middle">92%</text>
+  <circle cx="734" cy="214" r="92" fill="none" stroke="#F43F5E" stroke-width="30" stroke-dasharray="526.63 51.42" stroke-dashoffset="0.00" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#8B5CF6" stroke-width="30" stroke-dasharray="19.44 558.61" stroke-dashoffset="-526.63" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#A1A1AA" stroke-width="30" stroke-dasharray="12.98 565.08" stroke-dashoffset="-546.07" transform="rotate(-90 734 214)"/><circle cx="734" cy="214" r="92" fill="none" stroke="#3A3A44" stroke-width="30" stroke-dasharray="19.01 559.05" stroke-dashoffset="-559.05" transform="rotate(-90 734 214)"/>
+  <text class="s" x="734" y="220" font-size="30" font-weight="700" fill="#EDEDEF" text-anchor="middle">91%</text>
   <text class="s" x="734" y="246" font-size="16" fill="#5E5E68" text-anchor="middle">TypeScript</text>
   <rect x="856" y="142" width="14" height="14" rx="3" fill="#F43F5E"/>
   <text class="s" x="878" y="155" font-size="19" fill="#8A8A93">TypeScript</text>
-  <text class="s" x="878" y="175" font-size="15" fill="#5E5E68">91.5%</text>
+  <text class="s" x="878" y="175" font-size="15" fill="#5E5E68">91.1%</text>
   <rect x="856" y="182" width="14" height="14" rx="3" fill="#8B5CF6"/>
   <text class="s" x="878" y="195" font-size="19" fill="#8A8A93">JavaScript</text>
-  <text class="s" x="878" y="215" font-size="15" fill="#5E5E68">2.6%</text>
+  <text class="s" x="878" y="215" font-size="15" fill="#5E5E68">3.4%</text>
   <rect x="856" y="222" width="14" height="14" rx="3" fill="#A1A1AA"/>
   <text class="s" x="878" y="235" font-size="19" fill="#8A8A93">MDX</text>
-  <text class="s" x="878" y="255" font-size="15" fill="#5E5E68">2.4%</text>
+  <text class="s" x="878" y="255" font-size="15" fill="#5E5E68">2.2%</text>
   <rect x="856" y="262" width="14" height="14" rx="3" fill="#3A3A44"/>
   <text class="s" x="878" y="275" font-size="19" fill="#8A8A93">Other</text>
-  <text class="s" x="878" y="295" font-size="15" fill="#5E5E68">3.5%</text>
+  <text class="s" x="878" y="295" font-size="15" fill="#5E5E68">3.3%</text>
 </svg>
